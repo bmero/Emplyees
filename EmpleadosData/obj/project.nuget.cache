@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "bMOG/Ek24mN6eo2HNbTjzUcI8CCVFBRC5NMp68lk76+UHf2aSOYH1itLiMDKCdokOK1e0wze7pBoNQ4gQE1WPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brain\\OneDrive\\Documentos\\Visual Studio 2019\\projects\\Empleados\\EmpleadosData\\EmpleadosData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brain\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
+    "C:\\Users\\brain\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\brain\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\brain\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\brain\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

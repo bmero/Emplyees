@@ -1,0 +1,9 @@
+C:\Users\brain\OneDrive\Documentos\Visual Studio 2019\projects\Empleados\EmpleadosData\bin\Debug\netstandard2.0\EmpleadosData.deps.json
+C:\Users\brain\OneDrive\Documentos\Visual Studio 2019\projects\Empleados\EmpleadosData\bin\Debug\netstandard2.0\EmpleadosData.dll
+C:\Users\brain\OneDrive\Documentos\Visual Studio 2019\projects\Empleados\EmpleadosData\bin\Debug\netstandard2.0\EmpleadosData.pdb
+C:\Users\brain\OneDrive\Documentos\Visual Studio 2019\projects\Empleados\EmpleadosData\obj\Debug\netstandard2.0\EmpleadosData.csprojAssemblyReference.cache
+C:\Users\brain\OneDrive\Documentos\Visual Studio 2019\projects\Empleados\EmpleadosData\obj\Debug\netstandard2.0\EmpleadosData.AssemblyInfoInputs.cache
+C:\Users\brain\OneDrive\Documentos\Visual Studio 2019\projects\Empleados\EmpleadosData\obj\Debug\netstandard2.0\EmpleadosData.AssemblyInfo.cs
+C:\Users\brain\OneDrive\Documentos\Visual Studio 2019\projects\Empleados\EmpleadosData\obj\Debug\netstandard2.0\EmpleadosData.csproj.CoreCompileInputs.cache
+C:\Users\brain\OneDrive\Documentos\Visual Studio 2019\projects\Empleados\EmpleadosData\obj\Debug\netstandard2.0\EmpleadosData.dll
+C:\Users\brain\OneDrive\Documentos\Visual Studio 2019\projects\Empleados\EmpleadosData\obj\Debug\netstandard2.0\EmpleadosData.pdb
